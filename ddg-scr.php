@@ -2,7 +2,7 @@
 /*
 
 Plugin Name: Shortcode Pre-Directions by DDG - site go-studio.pro
-Plugin URI: none
+Plugin URI: https://github.com/ddg-griggs/shortcode-pre-directions-ddg
 Description: Этот плагин позволяет вам добавлять шорткод на страницу. При выполнении этого шорткода он перенаправляет пользователя на предопределенный URL. Вы также можете установить, сколько секунд ждать перед перенаправлением пользователя. Код для копирования [redirect url='тут ссылка на страницу' sec='3'] вставляется в любое поля с текстом или в шорткод elementor
 Author: Dankov Dorel
 Version: 1.0 : 15.03.25
