@@ -1,5 +1,5 @@
 === Shortcode Pre-Directions by DDG - site go-studio.pro ===
-Участники: go-studio.pro, Dorel Dankov
+Участники: go-studio.pro
 Теги: перенаправление, переписывание, страница, пост, URL
 Требуется как минимум WP Версий: 6.0
 Протестировано до WP Версий: 6.7.2
